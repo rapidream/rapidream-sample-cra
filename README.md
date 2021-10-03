@@ -1,6 +1,6 @@
 # Rapidream + Create React App
 
-This is an boilerplate of [Rapidream](https://rapidream.com) installed into a default [Create React App](https://github.com/facebook/create-react-app) project.
+This is an boilerplate example of [Rapidream](https://rapidream.com) installed into a default [Create React App](https://github.com/facebook/create-react-app) project.
 
 ## Getting Started
 
